@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.c": "c",
+    "*.html": "html",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "set": "cpp",
+    "list": "cpp",
+    "forward_list": "cpp",
+    "unordered_set": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
