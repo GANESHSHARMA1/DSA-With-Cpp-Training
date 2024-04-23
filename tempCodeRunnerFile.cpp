@@ -1,8 +1,2 @@
-if (top != -1)
-            {
-                cout << "Balanced" << endl;
-            }
-            else
-            {
-                cout << "Unbalanced" << endl;
-            }
+
+            root->right = insertNode(root->right, val);
