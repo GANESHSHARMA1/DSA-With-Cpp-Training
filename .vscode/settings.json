@@ -12,7 +12,14 @@
     "unordered_set": "cpp",
     "utility": "cpp",
     "ios": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "deque": "cpp",
+    "vector": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "xlocale": "cpp",
+    "limits": "cpp",
+    "climits": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
