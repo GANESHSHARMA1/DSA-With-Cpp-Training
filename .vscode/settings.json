@@ -19,7 +19,8 @@
     "xtree": "cpp",
     "xlocale": "cpp",
     "limits": "cpp",
-    "climits": "cpp"
+    "climits": "cpp",
+    "unordered_map": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
